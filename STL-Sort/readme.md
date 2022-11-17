@@ -16,4 +16,4 @@ void stableStlSort(vector<int>& nums) {
 ```
 
 ##
-Created by [Shodydosh]("https://github.com/Shodydosh") :innocent:
+Created by [Shodydosh](https://github.com/Shodydosh) :innocent:
