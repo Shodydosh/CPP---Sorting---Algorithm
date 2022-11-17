@@ -1,4 +1,6 @@
-# Table of Content:
+## ⭐️ Table of Content:
+  > Click on the name to view the info and to source code of the Sort
+## 
 ###### [STL](https://github.com/Shodydosh/CPP-Sorting-Algorithm/tree/main/STL-Sort)
 - Method1: Standard
 - Method2: Stable
