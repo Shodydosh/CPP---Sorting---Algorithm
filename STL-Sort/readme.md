@@ -15,4 +15,6 @@ void stableStlSort(vector<int>& nums) {
 }
 ```
 
+<br/>
+
 Created by [Shodydosh]("https://github.com/Shodydosh")
