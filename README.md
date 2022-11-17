@@ -1,24 +1,30 @@
 # Table of Content:
-# [STL](https://github.com/Shodydosh/CPP-Sorting-Algorithm/tree/main/STL-Sort)
+###### [STL](https://github.com/Shodydosh/CPP-Sorting-Algorithm/tree/main/STL-Sort)
 - Method1: Standard
 - Method2: Stable
-# [Insertion Sort]()
+###### [Insertion Sort]()
 - Method1: Iterative
 - Method2: Recursive
-# [Selection Sort]()
+###### [Selection Sort]()
 - Method1: Standard
 - Method2: Standard using inbuilt
-# [Bubble Sort]()
-# [Quick Sort]()
+###### [Bubble Sort]()
+###### [Quick Sort]()
 - Method1: Standard
 - Method2: Randomised
-# [Merge Sort]()
+###### [Merge Sort]()
 - Method1: Outplace Merging
 - Method2: Inplace Merging
-# [Generalised Radix Sort]()
+###### [Generalised Radix Sort]()
 - Method1: Using MinVal
 - Method2: Using Partitioning
-# [Generalised Counting Sort]()
-# [Heap Sort]()
-# [Bucket Sort]()
-# [Shell Sort]()
+###### [Generalised Counting Sort]()
+###### [Heap Sort]()
+###### [Bucket Sort]()
+###### [Shell Sort]()
+
+##
+
+You can also star/fork this repo so as to revise above Sorting Algorithms whenvever you need to. <br/>
+Created by [Shodydosh](https://github.com/Shodydosh) :innocent: <br/>
+Last Edited on: 11/17/2022
