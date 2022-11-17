@@ -15,6 +15,5 @@ void stableStlSort(vector<int>& nums) {
 }
 ```
 
-<br/>
-
-Created by [Shodydosh]("https://github.com/Shodydosh")
+##
+Created by [Shodydosh]("https://github.com/Shodydosh") :innocent:
