@@ -27,6 +27,6 @@
 
 ##
 
-You can also star/fork this repo so as to revise above Sorting Algorithms whenvever you need to. <br/>
+You can star/fork this repository so as to revise above Sorting Algorithms whenvever you need to.. <br/>
 Created by [Shodydosh](https://github.com/Shodydosh) :innocent: <br/>
 Last Edited on: 11/17/2022
