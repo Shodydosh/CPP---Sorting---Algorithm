@@ -1,5 +1,5 @@
 # Table of Content:
-# [STL]("https://github.com/Shodydosh/CPP-Sorting-Algorithm/tree/main/STL-Sort")
+# [STL](https://github.com/Shodydosh/CPP-Sorting-Algorithm/tree/main/STL-Sort)
 - Method1: Standard
 - Method2: Stable
 # [Insertion Sort]()
